@@ -1,12 +1,2 @@
-# Te amo, minha vida!
-Feliz aniversário de namoro, meu amor!
-Ou pelo menos 80% dele.
-O bilhetinho hoje é diferente, mais tecnológico
-
- Bom descanso, minha gata!
- Come alguma coisa, fica tranquila, relaxaaaa muitoooo
- Boa semana para nós, que seja muito boa!
- Obrigado muito muito muito obrigadoooooooooooooooooo por esses quase 100% de 2 anos de namoro.
-
-
- Pq tudo isso? E não um bilhete de papel? Te conto a noite qui qui qui
+# Nome a definir
+Projeto de site
